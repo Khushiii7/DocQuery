@@ -8,11 +8,15 @@ This project enables users to ask natural language questions about the Hugging F
 - **FastAPI** (API backend)
 - **Streamlit** (frontend)
 - **Hugging Face Transformers**
+
 - **Sentence Transformers**
 - **FAISS** (vector search)
 - **rank_bm25** (keyword search)
 - **BeautifulSoup, requests** (scraping)
 - **Docker** (optional, for deployment)
+
+
+<img width="954" height="400" alt="{C5EFCAAB-38A5-4C1A-914E-EA2CDA19217E}" src="https://github.com/user-attachments/assets/cbb51126-ccd8-4eac-b4f1-8f9d6d6abd67" />
 
 ## Setup Instructions
 
