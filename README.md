@@ -3,7 +3,7 @@ A Retrieval-Augmented Generation (RAG) system to answer developer questions abou
 This project enables users to ask natural language questions about the Hugging Face Transformers documentation and get accurate, context-supported answers. It combines document scraping, preprocessing, semantic chunking, vector search (FAISS) and a powerful QA model.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Python 3.8+**
 - **FastAPI** (API backend)
 - **Streamlit** (frontend)
@@ -14,7 +14,7 @@ This project enables users to ask natural language questions about the Hugging F
 - **BeautifulSoup, requests** (scraping)
 - **Docker** (optional, for deployment)
 
-## ⚡ Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
