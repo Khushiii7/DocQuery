@@ -4,7 +4,7 @@ This project enables users to ask natural language questions about the Hugging F
 
 
 ##  Tech Stack
-- **Python 3.8+**
+- **Python**
 - **FastAPI** (API backend)
 - **Streamlit** (frontend)
 - **Hugging Face Transformers**
